@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/julietM/juliet-89/static/css/main.f855e6bc.css",
+    "main.js": "/julietM/juliet-89/static/js/main.46bb4cb7.js",
+    "static/js/453.3614afde.chunk.js": "/julietM/juliet-89/static/js/453.3614afde.chunk.js",
+    "static/media/logo.svg": "/julietM/juliet-89/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/julietM/juliet-89/index.html",
+    "main.f855e6bc.css.map": "/julietM/juliet-89/static/css/main.f855e6bc.css.map",
+    "main.46bb4cb7.js.map": "/julietM/juliet-89/static/js/main.46bb4cb7.js.map",
+    "453.3614afde.chunk.js.map": "/julietM/juliet-89/static/js/453.3614afde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.46bb4cb7.js"
+  ]
+}
